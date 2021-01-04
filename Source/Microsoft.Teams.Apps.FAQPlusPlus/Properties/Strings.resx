@@ -208,15 +208,15 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Welcome message when bot is added to a new team.</comment>
   </data>
   <data name="CustomMessage" xml:space="preserve">
-    <value>Sorduğunuz soru'nın cevabını daha öğrenmedim. İsterseniz direk uzmanımıza sorun?</value>
+    <value>I didn't find a matching answer for this question. Do you want me to ask an expert?</value>
     <comment>Message when user asks random question to the bot.</comment>
   </data>
   <data name="QuestionAskedFactTitle" xml:space="preserve">
-    <value>Soru cevaplandı:</value>
+    <value>Question asked:</value>
     <comment>The fact set title for the question asked in the SME Ticket card.</comment>
   </data>
   <data name="QuestionForExpertSubHeaderText" xml:space="preserve">
-    <value>**{0}** isimli kişi destek istiyor.</value>
+    <value>**{0}** is requesting support.</value>
     <comment>Text says that user is asking a question to the expert, {0} placeholder holds the name of the person.</comment>
   </data>
   <data name="TeamCustomMessage" xml:space="preserve">
