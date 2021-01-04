@@ -288,7 +288,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Notification text sent to the user who opened a ticket, when the ticket is closed.</comment>
   </data>
   <data name="ReopenedTicketUserNotification" xml:space="preserve">
-    <value>Your request is open again. An expert will directly send you a chat message.</value>
+    <value>İsteğiniz tekrar oluştu, uzman sizinle tekrar iletişime geçecek.</value>
     <comment>Notification text sent to the user who opened a ticket, when the ticket is reopened.</comment>
   </data>
   <data name="GoToOriginalThreadButtonText" xml:space="preserve">
@@ -336,7 +336,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>The dropdown choice for "Unassign" for when the SME ticket status is being updated</comment>
   </data>
   <data name="SMETicketAssignedStatus" xml:space="preserve">
-    <value>Assigned to {0}</value>
+    <value>{0} a atandı</value>
     <comment>This value represents the SME Ticket in the Assigned status - {0} represents the SME User to whom a ticket has been assigned</comment>
   </data>
   <data name="SMETicketClosedStatus" xml:space="preserve">
@@ -440,7 +440,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Yes button text on delete QnA pair confirmation card.</comment>
   </data>
   <data name="DeletedQnaPair" xml:space="preserve">
-    <value>Deleted by {0}</value>
+    <value>{0} Sildi</value>
     <comment>Text shown on the card when a QnA pair is deleted.</comment>
   </data>
   <data name="UpdateHistoryButtonText" xml:space="preserve">
@@ -560,7 +560,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Preview button text.</comment>
   </data>
   <data name="SaveButtonText" xml:space="preserve">
-    <value>Save</value>
+    <value>Kaydet</value>
     <comment>Save button text for QnA pair.</comment>
   </data>
   <data name="DateFormat" xml:space="preserve">
@@ -594,11 +594,11 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>The formatting of the select action item display text, with {0} being the placeholder for the DisplayText from the Follow Up prompt.</comment>
   </data>
   <data name="AppFeedbackDescriptionPlaceholderText" xml:space="preserve">
-    <value>Type your feedback (500 characters max)</value>
+    <value>Geri bildiriminiz (500 max)</value>
     <comment>Placeholder for app feedback description</comment>
   </data>
   <data name="ShareAppFeedbackRating" xml:space="preserve">
-    <value>How helpful is this app? (Required)</value>
+    <value>Uygulama yeterli mi? (Gerekli)</value>
     <comment>Feedback for App</comment>
   </data>
 </root>
