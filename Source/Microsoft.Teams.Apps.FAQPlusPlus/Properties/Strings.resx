@@ -134,7 +134,7 @@
     <comment>Text suggests that user is invited to share his feedback on his experience using bot.</comment>
   </data>
   <data name="FunctionCardText1" xml:space="preserve">
-    <value>Ask a question</value>
+    <value>Bir soru sorun.</value>
     <comment>Explains what bot does and possible questions.</comment>
   </data>
   <data name="FunctionCardText2" xml:space="preserve">
@@ -142,11 +142,11 @@
     <comment>Suggests the user to ask question.</comment>
   </data>
   <data name="ShareFeedbackButtonText" xml:space="preserve">
-    <value>Share feedback</value>
+    <value>Geri Bildirim</value>
     <comment>Button text for share feedback show card in QnA response card.</comment>
   </data>
   <data name="DescriptionText" xml:space="preserve">
-    <value>Description</value>
+    <value>Açıklama</value>
     <comment>Label text for description.</comment>
   </data>
   <data name="FeedbackDescriptionPlaceholderText" xml:space="preserve">
@@ -228,11 +228,11 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Text on change status button.</comment>
   </data>
   <data name="ResponseHeaderText" xml:space="preserve">
-    <value>Here's what I found:</value>
+    <value>Senin için bulduğum cevap:</value>
     <comment>Response header-letting the user know that a response is generated to their request from QnA Maker.</comment>
   </data>
   <data name="ClosedFactTitle" xml:space="preserve">
-    <value>Closed: </value>
+    <value>Kapandı: </value>
     <comment>Closed fact title is one of the available fact set.</comment>
   </data>
   <data name="DateCreatedDisplayFactTitle" xml:space="preserve">
@@ -240,23 +240,23 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Created: one of the available fact set in notification cards- created is the title for created date value.</comment>
   </data>
   <data name="ShowCardTitleText" xml:space="preserve">
-    <value>Type a short title (50 characters max)</value>
+    <value>Kısa bir başlık girin (50 max)</value>
     <comment>Label text where users enters title for his question or feedback. </comment>
   </data>
   <data name="MandatoryTitleFieldText" xml:space="preserve">
-    <value>Title field is mandatory.</value>
+    <value>Başlık zorunludur.</value>
     <comment>Text that suggest users to fill mandatory fields.</comment>
   </data>
   <data name="ResultsFeedbackText" xml:space="preserve">
-    <value>Feedback</value>
+    <value>Geri Bildirim</value>
     <comment>This text is used as title for results feedback card.</comment>
   </data>
   <data name="FeedbackAlertText" xml:space="preserve">
-    <value>**{0}** has shared the feedback</value>
+    <value>**{0}** sana geri bildirimde bulundu</value>
     <comment>Text in the SME feedback card, The placeholder {0} represents the name of the person sharing the feedback. The placeholder {1} represents the feedback type.</comment>
   </data>
   <data name="ShareFeedbackTitleText" xml:space="preserve">
-    <value>Share app feedback</value>
+    <value>Uygulama geri bildirimi</value>
     <comment>Title text of share feedback user carousel card.</comment>
   </data>
   <data name="AskAnExpertDisplayText" xml:space="preserve">
@@ -264,23 +264,23 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Ask an expert display text: text sent to the bot when ask an expert button is clicked.</comment>
   </data>
   <data name="ShareFeedbackDisplayText" xml:space="preserve">
-    <value>Share feedback</value>
+    <value>Ger Bildirim Paylaş</value>
     <comment>Share feedback display text: text sent to the bot when share feedback button is clicked.</comment>
   </data>
   <data name="SMEAssignedStatus" xml:space="preserve">
-    <value>This request is now assigned. Assigned to {0}.</value>
+    <value>Bu istek size {0} atandı.</value>
     <comment>Message posted to the thread when the ticket is assigned. {0} = name of SME who assigned the request.</comment>
   </data>
   <data name="SMEClosedStatus" xml:space="preserve">
-    <value>This request is now closed. Closed by {0}.</value>
+    <value>Bu istek {0} tarafından kapandı.</value>
     <comment>Message posted to the thread when the ticket is closed. {0} = name of SME who closed the request.</comment>
   </data>
   <data name="SMEOpenedStatus" xml:space="preserve">
-    <value>This request is now unassigned. Last updated by {0}. </value>
+    <value>Bu istek atanmadı. Son güncelleyen {0}. </value>
     <comment>Message posted to the thread when the ticket is reopened. {0} = name of SME who reopened the request.</comment>
   </data>
   <data name="AssignedTicketUserNotification" xml:space="preserve">
-    <value>Your question has been assigned to an expert. They'll respond to you directly with a chat message.</value>
+    <value>İstepiniz uzmanımıza atandı. Sizinle direk iletişime geçecektir.</value>
     <comment>Notification text sent to the user who opened a ticket, when the ticket is assigned to an expert.</comment>
   </data>
   <data name="ClosedTicketUserNotification" xml:space="preserve">
